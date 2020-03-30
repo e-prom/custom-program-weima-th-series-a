@@ -64,9 +64,6 @@ Q2.1 - (optional) Auger for feeding sawdust into the tank.
 
 -------------------------------------------------------------------
 
-### Authors
-<a href="https://nvjob.github.io">#NVJOB Nicholas Veselov. Независимый Разработчик Николай Веселов. Санкт-Петербург.</a>
+<strong>Authors:</strong> <a href="https://nvjob.github.io">#NVJOB Nicholas Veselov. Независимый Разработчик Николай Веселов. Санкт-Петербург.</a>
 
-### License
-<a href="https://nvjob.github.io/gnu-license">GNU General Public License v3.0</a>
-
+<strong>License:</strong> <a href="https://nvjob.github.io/gnu-license">GNU General Public License v3.0</a>
